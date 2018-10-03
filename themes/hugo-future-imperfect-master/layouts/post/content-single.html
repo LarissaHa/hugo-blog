@@ -1,0 +1,21 @@
+<article class="post">
+  {{ .Render "header" }}
+
+  {{ .Render "featured" }}
+  <div id="content">
+    {{ .Content }}
+  </div>
+
+  <footer>
+      {{ if .Site.Params.socialShare }}
+      <section id="social-share">
+          <ul class="icons">
+              {{ partial "share-links" . }}
+          </ul>
+      </section>
+      {{ end }}
+  </footer>
+
+</article>
+{{ .Render "comments" }}
+{{ .Render "prev-next" }}
