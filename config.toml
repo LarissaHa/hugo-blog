@@ -96,7 +96,7 @@ canonifyURLs = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/profile-lh.jpg"
     # Sets Image to be a cirlce
     circle    = true
     # Sets Image to be Future Imperfect's hexagon
@@ -142,8 +142,8 @@ canonifyURLs = true
   weight = 7
 
 [[menu.main]]
-  name = "Impress"
-  url = "/impress/"
+  name = "Imprint"
+  url = "/imprint/"
   identifier = "fa fa-sticky-note"
   weight = 8
 
@@ -164,7 +164,7 @@ canonifyURLs = true
   behance          = ""
   dribbble         = ""
   # Publishing Communities
-  wordpress        = "larissaswerkstatt"
+  wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
   linkedin         = "larissa-haas-49019aa2"
@@ -195,4 +195,5 @@ canonifyURLs = true
   orcid            = ""
   researchgate     = ""
   # Email
-  email            = "larissaswerkstatt@gmail.com"
+  email            = "mail@larissahaas.de"
+  portfolio        = "larissahaas.de"
