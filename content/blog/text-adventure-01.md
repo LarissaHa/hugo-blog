@@ -2,7 +2,7 @@
 author = "Larissa"
 categories = ["Python", "Tutorial"]
 tags = ["spring2019", "django", "webdev", "text-adventure", "german-only"]
-date = "2019-03-17"
+date = "2019-03-16"
 description = "Schattengabe - Tutorial Part 01"
 featured = "forest.jpg"
 featuredpath = "date"

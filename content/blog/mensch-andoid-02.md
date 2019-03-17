@@ -2,7 +2,7 @@
 author = "Larissa"
 categories = ["Thoughts"]
 tags = ["spring2019", "artificial-intelligence", "guest-article", "ai-thesis", "german-only"]
-date = "2019-03-18"
+date = "2019-03-17"
 description = "Teil 02: Bewusstsein - guest article"
 featured = "future.jpg"
 featuredpath = "date"
